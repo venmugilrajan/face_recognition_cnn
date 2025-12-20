@@ -1,7 +1,3 @@
-Perfect 👍
-Here is a **clean, professional README.md** for your **Face Recognition CNN** project.
-You can **copy–paste this exactly** into your `README.md`.
-
 ---
 
 ```markdown
