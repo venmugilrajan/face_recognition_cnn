@@ -1,4 +1,3 @@
-```markdown
 # Face Recognition using CNN
 
 This project implements a **Face Recognition system using Convolutional Neural Networks (CNN)**.  
