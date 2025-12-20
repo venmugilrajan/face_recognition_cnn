@@ -19,11 +19,11 @@ It is built using Python and deep learning techniques to detect and recognize hu
 ```
 
 face_recognition_cnn/
-│── app.py                 # Main application file
-│── requirements.txt       # Python dependencies
-│── train/                 # Training scripts and dataset
-│── test/                  # Testing scripts and data
-│── .gitignore             # Ignored files
+│── app.py # Main application file
+│── requirements.txt # Python dependencies
+│── train/ # Training scripts and dataset
+│── test/ # Testing scripts and data
+│── .gitignore # Ignored files
 
 ````
 
