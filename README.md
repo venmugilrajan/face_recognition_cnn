@@ -1,4 +1,4 @@
-```markdown
+<img width="414" height="193" alt="image" src="https://github.com/user-attachments/assets/f1254c11-b8e8-4da4-918a-5facaa3e2d6f" />```markdown
 # Face Recognition using CNN
 
 This project implements a **Face Recognition system using Convolutional Neural Networks (CNN)**.  
@@ -17,6 +17,7 @@ It is built using Python and deep learning techniques to detect and recognize hu
 
 ## 📁 Project Structure
 ```
+
 
 face_recognition_cnn/
 │── app.py # Main application file
