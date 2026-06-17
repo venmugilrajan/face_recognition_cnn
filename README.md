@@ -101,6 +101,6 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Venmugil Rajan S**
-GitHub: [https://github.com/venmugilrajan](https://github.com/venmugilrajan)
+- GitHub: [@venmugilrajan](https://github.com/venmugilrajan)
 
 ---
