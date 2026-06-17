@@ -3,7 +3,7 @@
 This project implements a **Face Recognition system using Convolutional Neural Networks (CNN)**.  
 It is built using Python and deep learning techniques to detect and recognize human faces from images.
 
-# View APP:https://huggingface.co/spaces/venmugilrajan/FACE_RECOGNIZATION_CNN
+# View App: [Hugging Face Space](https://huggingface.co/spaces/venmugilrajan/FACE_RECOGNIZATION_CNN)
 ---
 
 ## 🚀 Features
